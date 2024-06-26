@@ -254,7 +254,7 @@ const createUsername = (firstName, lastName) => {
     return firstName.substring(0, 3) + lastName.substring(0,3) + combined.length; 
 }
 
-console.log('Exercise 11 Result:', createUsername("Samantha", "Green"));
+console.log('Exercise 11 Result:', createUsername("Gabrielle", "Tongol"));
 
 /*
 Exercise 12: numArgs()
